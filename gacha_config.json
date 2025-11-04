@@ -1,11 +1,12 @@
 {
     "BannerID": 1,
-    "CharacterID": 000,
+    "CharacterID": 0, // Убран ведущий ноль
     "ImagePath": "Banner_Hero_000",
     "IsActive": true,
     "ExpirationDate": "2025-11-15T23:59:59Z",
     "DataHash": -116266129 
 }
+
 
 
 
